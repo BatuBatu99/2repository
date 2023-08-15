@@ -1,3 +1,4 @@
 depository
 deneme
-deneme 2
+deneme 23
+git pull deneme
